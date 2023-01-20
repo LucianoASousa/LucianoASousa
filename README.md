@@ -4,7 +4,6 @@
 <p align="center">
 <a href="https://github.com/LucianoASousa"></a>
 <img height="238em"src="https://github-readme-streak-stats.herokuapp.com/?user=LucianoASousa&theme=default_border=true">
-<img height="228em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoASousa&langs_count=10">
   </p>
 
 ### 💡 Tecnológias
