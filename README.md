@@ -6,7 +6,7 @@
 <img height="238em"src="https://github-readme-streak-stats.herokuapp.com/?user=LucianoASousa&theme=default_border=true">
   </p>
 
-### 💡 Tecnológias
+### 💡 Tecnologias
 
 <p align="center">
 <a href="https://github.com/LucianoASousa"></a>
